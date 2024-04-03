@@ -1,8 +1,11 @@
 p { font-size: 100px;
 }
 h1 {background-color: aqua; 
+    text-align: center;
 }
 .jimp { color: beige; text-shadow: 2ex;
 }
-#aula { text-align: center; color: rgba(137, 43, 226, 0.651);
+#aula { text-align: center; color: beige; text-shadow: 2ex;
 }
+body { background-color: darkslategray;}
+.jimp{ border-radius: 20px;}
