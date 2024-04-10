@@ -1,11 +1,44 @@
-p { font-size: 100px;
+p { font-size: 30px;
 }
 h1 {background-color: aqua; 
     text-align: center;
 }
+
 .jimp { color: beige; text-shadow: 2ex;
 }
+
 #aula { text-align: center; color: beige; text-shadow: 2ex;
 }
-body { background-color: darkslategray;}
-.jimp{ border-radius: 20px;}
+
+body { background-color: darkslategray;
+}
+
+.jimp{ border-radius: 20px;
+}
+
+.flex-container { margin: 10px;
+padding: 10px;
+display: flex;
+list-style:none;
+}
+
+.flex-item{background:darkslategrey;
+height:10px;
+width:10px;
+line-height: 10px;
+}
+
+.flex-container {
+    flex-direction: row;
+    justify-content: space-between ;
+}
+
+.imgg {
+    width: 200px;
+    height: 200px;
+    border-radius: 60px;
+}
+.flex-container-jimp1{
+    flex-direction: row;
+    justify-content: space-between;
+}
