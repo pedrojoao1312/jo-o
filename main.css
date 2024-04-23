@@ -60,7 +60,7 @@ body {
 .flex-container-jimp1 {
     flex-direction: row;
     justify-content: space-between;
-    padding: 20git ad;
+    padding: 20;
 }
 
 .cash {
@@ -68,6 +68,15 @@ body {
     justify-content: center;
 }
 
-.cash p {
-    padding: 300px;
+
+.table{
+    width: 270px;
+    height: 270px;
 }
+
+
+.inp{
+    justify-content: center;
+}
+    
+
