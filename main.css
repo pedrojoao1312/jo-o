@@ -78,5 +78,14 @@ body {
 .inp{
     justify-content: center;
 }
+.pesquisa{
+    font-size: x-large;
+    position: absolute;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
     
 
